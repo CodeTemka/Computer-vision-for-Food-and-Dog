@@ -1,2 +1,2 @@
 # Computer-vision-for-Food-and-Dog
-This repository contains ipynb files, in which food classification and dog breed classification is trained using computer vision.
+This repository contains ipynb files, in which food classification and dog breed classification is trained using computer vision. In Food vision, I used EfficientNetB0 model for simplicity, which gained exceptionally well accuracy after a few epochs. I encourage you train for more epochs, or unfreezing the last few layers to maximize the accuracy. In summary, this simple model multiplied by more training epochs and fine tuning will achieve incredible accuracy.
